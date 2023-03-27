@@ -1,4 +1,4 @@
-# Youtube-Audio-Dowloader-With-UI
+# Youtube-Audio-Dowloader-With-GUI
 A python based program that downloads audio from youtube videos (MP3 Format)
 This is the version with UI, if you want the version without UI and only with commands, check my repositories.
 HOW TO USE:
